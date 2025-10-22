@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Data scientist<br>Chileno</p>
+<p align="left">Data scientist,Chileno<br>Soy un apasionado por la ciencia de datos y el machine learning, enfocado en transformar datos en conocimiento útil y soluciones reales.
+Me motiva el aprendizaje constante, el trabajo en equipo y la búsqueda de resultados rigurosos y con un impacto practico </p>
 
 ###
 
